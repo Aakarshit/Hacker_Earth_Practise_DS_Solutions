@@ -1,0 +1,2 @@
+# Hacker_Earth_Practise_DS_Solutions
+java solutions
